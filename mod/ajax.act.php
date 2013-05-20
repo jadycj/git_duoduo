@@ -1072,7 +1072,8 @@ switch($act){
 					'item_type'=>2,
 					'addtime'=>TIME,					
 					);
-					$duoduo->insert('outlets_goods',$field_arr);
+					$sqlresult = $duoduo->insert('outlets_goods',$field_arr);
+					
 				}
 			}
 			exit();
