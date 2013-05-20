@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+/*卖场选择商品*/
+#outlets_goods_td .goodslist .goodslist_main_2 { margin: 10px 0 20px 12px;padding: 0;width: 100%;overflow: auto;}
+.goodslist .goodslist_main_2 .info {width:182px;float:left;line-height:25px;margin: 0 0 20px 0;height: 368px;overflow: hidden;}
+.goodslist .goodslist_main_2 .info .coupon-rate{padding:0;}
+.goodslist .goodslist_main_2 .info p{padding:0;margin:0;}
+.goodslist .goodslist_main_2 .goodslist_main_left_img_2 img { border: solid 1px #EAEAEA; padding:3px;}
+.goodslist .goodslist_main_2 .goodslist_main_left_bt_2{ width:175px; height:50px; overflow:hidden; margin:3px 0 0 0;}
+.goodslist .goodslist_main_2 .goodslist_main_left_seller_2 {padding:0;}
+.goodslist .goodslist_main_2 .goodslist_main_left_seller_2 img {vertical-align: text-bottom;padding:0;}
+.goodslist .goodslist_main_2 .goodslist_main_left_xy_2 img { vertical-align: baseline;padding:0;}
+.goodslist .goodslist_main_2 .goodslist_main_left_xy_2 { margin:3px 0 0 0; padding:0;}
+.goodslist .goodslist_main_2 .goodslist_main_right_tb_2 { margin:5px 0 0 0;}
+.goodslist .greenfont { color: #4EA205;font-weight: bold;font-size: 14px;}
+.goodslist .goodslist_main_2 .goodslist_main_left_xy_2 .price {text-align:center;}
+.item_coupon_rate_em{color:red;text-align:center;}
